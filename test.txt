@@ -1,4 +1,10 @@
 dummy commit
+<<<<<<< Updated upstream
 dummy commit
 dummy commit
 dummy commit
+whatever it is
+=======
+dummy commi
+dummy commit
+>>>>>>> Stashed changes
